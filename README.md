@@ -12,4 +12,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iscodandrade&layout=compact&langs_count=7&theme=blue"/>
 </div>
  
-Stats powered by [this cool repo](https://github-readme-stats.vercel.app) =D.
+<h5>Stats powered by [this cool repo](https://github-readme-stats.vercel.app) =D.<h5>
