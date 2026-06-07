@@ -3,5 +3,10 @@
 21yo and self-taugh developer<br>
 minimalist and passionate by AWS, Docker and .NET ecosystem.
 
-¹ currently studying microservices, event sourcing and cqrs pattern
-² also studying amazon web services to become aws cloud practicioner certified
+> AWS Certified Cloud Practitioner ([Certificate](https://www.credly.com/badges/489bad59-b033-454a-9008-e63ab8c12734/public_url))
+
+> currently studying microservices, event sourcing and cqrs pattern
+
+> also studying how to build good agents with low budget
+
+[linkedin](https://linkedin.com/in/iscodandrade)
