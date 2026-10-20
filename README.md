@@ -1,5 +1,5 @@
 21yo and self-taugh developer<br>
-minimalist and passionate by AWS, Docker and .NET ecosystem.
+minimalist and passionate by AWS, Terraform, Docker and .NET ecosystem.
 
 > aws certified cloud practitioner - ([certificate](https://www.credly.com/badges/489bad59-b033-454a-9008-e63ab8c12734/public_url))<br>
 > currently studying aws, microservices, event sourcing and terraform<br>
